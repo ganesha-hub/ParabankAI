@@ -7,6 +7,10 @@ public class BaseClass {
 	public void print() {
 	
 	System.out.print("hellow world");
+	System.out.print("hellow world");
+	System.out.print("hellow world");
+	System.out.print("hellow world");
+	System.out.print("hellow world");
 	}
 	
 }
