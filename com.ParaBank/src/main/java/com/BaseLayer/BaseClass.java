@@ -6,7 +6,7 @@ public class BaseClass {
 
 	public void print() {
 	
-
+	
 	}
 	
 }
