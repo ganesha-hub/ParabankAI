@@ -1,12 +1,12 @@
 package com.UtilsLayer;
 
 public class Actiomnclass {
+	public static void main(String[] args) {
+		
+	
 
-  system.out.println("hello action class");
-system.out.println("hello action class");
-system.out.println("hello action class");
-system.out.println("hello action class");
-
+ 
+	}
 
 
 }
